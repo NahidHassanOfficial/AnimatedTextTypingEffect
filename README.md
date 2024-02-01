@@ -1,2 +1,3 @@
 # AnimatedTextTypingEffect
-Animated Hello World Text Typing Effect in C++
+<h3>Console Typer</h3>
+Animated Text Typing Effect in C++
